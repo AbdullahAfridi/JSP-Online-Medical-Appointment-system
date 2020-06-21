@@ -1,0 +1,19 @@
+SMAP
+fetchinPatients_jsp.java
+JSP
+*S JSP
+*F
++ 0 fetchinPatients.jsp
+fetchinPatients.jsp
+*L
+1,61:48
+61,3:109
+64,6:112,3
+70,5:130
+75:135,3
+76,11:138
+88,2:151
+89,3:153
+92,13:157
+104,4:170
+*E

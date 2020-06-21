@@ -1,0 +1,17 @@
+SMAP
+fetchingPoint_jsp.java
+JSP
+*S JSP
+*F
++ 0 fetchingPoint.jsp
+fetchingPoint.jsp
+*L
+1,68:48
+68,3:116
+71,5:119,3
+76,3:134
+80,2:139
+81,3:141
+84,13:145
+96,4:158
+*E

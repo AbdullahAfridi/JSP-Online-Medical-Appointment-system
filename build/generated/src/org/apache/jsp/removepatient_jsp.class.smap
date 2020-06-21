@@ -1,0 +1,20 @@
+SMAP
+removepatient_jsp.java
+JSP
+*S JSP
+*F
++ 0 removepatient.jsp
+removepatient.jsp
+*L
+1,27:49
+28,15:77
+42,17:92
+59:109,3
+60:112
+61,11:113,3
+72,12:146
+84:158,3
+85,3:161
+88,17:165
+104,4:182
+*E
